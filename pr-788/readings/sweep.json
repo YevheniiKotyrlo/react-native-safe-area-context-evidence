@@ -1,0 +1,128 @@
+{
+  "endWidth": 520,
+  "height": 800,
+  "readings": [
+    {
+      "run": 1,
+      "browser": "chromium 153.0.8010.12",
+      "commits": 570,
+      "finalReadout": "frame 520 x 800",
+      "rectReads": 760,
+      "rectReadsInResizeEvent": 380,
+      "resizeListeners": 2,
+      "variant": "release"
+    },
+    {
+      "run": 1,
+      "browser": "chromium 153.0.8010.12",
+      "commits": 190,
+      "finalReadout": "frame 520 x 800",
+      "rectReads": 380,
+      "rectReadsInResizeEvent": 0,
+      "resizeListeners": 0,
+      "variant": "pull-request"
+    },
+    {
+      "run": 2,
+      "browser": "chromium 153.0.8010.12",
+      "commits": 570,
+      "finalReadout": "frame 520 x 800",
+      "rectReads": 760,
+      "rectReadsInResizeEvent": 380,
+      "resizeListeners": 2,
+      "variant": "release"
+    },
+    {
+      "run": 2,
+      "browser": "chromium 153.0.8010.12",
+      "commits": 190,
+      "finalReadout": "frame 520 x 800",
+      "rectReads": 380,
+      "rectReadsInResizeEvent": 0,
+      "resizeListeners": 0,
+      "variant": "pull-request"
+    },
+    {
+      "run": 1,
+      "browser": "firefox 155.0",
+      "commits": 570,
+      "finalReadout": "frame 520 x 800",
+      "rectReads": 760,
+      "rectReadsInResizeEvent": 380,
+      "resizeListeners": 2,
+      "variant": "release"
+    },
+    {
+      "run": 1,
+      "browser": "firefox 155.0",
+      "commits": 190,
+      "finalReadout": "frame 520 x 800",
+      "rectReads": 380,
+      "rectReadsInResizeEvent": 0,
+      "resizeListeners": 0,
+      "variant": "pull-request"
+    },
+    {
+      "run": 2,
+      "browser": "firefox 155.0",
+      "commits": 570,
+      "finalReadout": "frame 520 x 800",
+      "rectReads": 760,
+      "rectReadsInResizeEvent": 380,
+      "resizeListeners": 2,
+      "variant": "release"
+    },
+    {
+      "run": 2,
+      "browser": "firefox 155.0",
+      "commits": 190,
+      "finalReadout": "frame 520 x 800",
+      "rectReads": 380,
+      "rectReadsInResizeEvent": 0,
+      "resizeListeners": 0,
+      "variant": "pull-request"
+    },
+    {
+      "run": 1,
+      "browser": "webkit 26.6",
+      "commits": 570,
+      "finalReadout": "frame 520 x 800",
+      "rectReads": 760,
+      "rectReadsInResizeEvent": 380,
+      "resizeListeners": 2,
+      "variant": "release"
+    },
+    {
+      "run": 1,
+      "browser": "webkit 26.6",
+      "commits": 190,
+      "finalReadout": "frame 520 x 800",
+      "rectReads": 380,
+      "rectReadsInResizeEvent": 0,
+      "resizeListeners": 0,
+      "variant": "pull-request"
+    },
+    {
+      "run": 2,
+      "browser": "webkit 26.6",
+      "commits": 569,
+      "finalReadout": "frame 520 x 800",
+      "rectReads": 760,
+      "rectReadsInResizeEvent": 380,
+      "resizeListeners": 2,
+      "variant": "release"
+    },
+    {
+      "run": 2,
+      "browser": "webkit 26.6",
+      "commits": 190,
+      "finalReadout": "frame 520 x 800",
+      "rectReads": 380,
+      "rectReadsInResizeEvent": 0,
+      "resizeListeners": 0,
+      "variant": "pull-request"
+    }
+  ],
+  "startWidth": 1280,
+  "steps": 190
+}

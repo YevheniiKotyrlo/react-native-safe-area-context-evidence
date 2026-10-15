@@ -1,0 +1,19 @@
+{
+  "name": "pr-788-web-resize",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "measure": "node measure.mjs"
+  },
+  "dependencies": {
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "react-native-safe-area-context": "5.10.1",
+    "react-native-web": "0.21.2"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2",
+    "playwright": "1.63.0"
+  }
+}
