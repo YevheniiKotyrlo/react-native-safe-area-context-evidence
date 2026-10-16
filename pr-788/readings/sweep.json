@@ -6,7 +6,16 @@
       "run": 1,
       "browser": "chromium 153.0.8010.12",
       "commits": 570,
+      "commitsAtMount": 3,
+      "commitsPerStep": {
+        "3": 190
+      },
       "finalReadout": "frame 520 x 800",
+      "framesToPaint": {
+        "0": 190
+      },
+      "layoutCount": 570,
+      "recalcStyleCount": 0,
       "rectReads": 760,
       "rectReadsInResizeEvent": 380,
       "resizeListeners": 2,
@@ -15,18 +24,37 @@
     {
       "run": 1,
       "browser": "chromium 153.0.8010.12",
-      "commits": 190,
+      "commits": 191,
+      "commitsAtMount": 2,
+      "commitsPerStep": {
+        "1": 189,
+        "2": 1
+      },
       "finalReadout": "frame 520 x 800",
-      "rectReads": 380,
-      "rectReadsInResizeEvent": 0,
-      "resizeListeners": 0,
+      "framesToPaint": {
+        "0": 190
+      },
+      "layoutCount": 570,
+      "recalcStyleCount": 0,
+      "rectReads": 760,
+      "rectReadsInResizeEvent": 380,
+      "resizeListeners": 1,
       "variant": "pull-request"
     },
     {
       "run": 2,
       "browser": "chromium 153.0.8010.12",
       "commits": 570,
+      "commitsAtMount": 2,
+      "commitsPerStep": {
+        "3": 190
+      },
       "finalReadout": "frame 520 x 800",
+      "framesToPaint": {
+        "0": 190
+      },
+      "layoutCount": 570,
+      "recalcStyleCount": 0,
       "rectReads": 760,
       "rectReadsInResizeEvent": 380,
       "resizeListeners": 2,
@@ -35,18 +63,35 @@
     {
       "run": 2,
       "browser": "chromium 153.0.8010.12",
-      "commits": 190,
+      "commits": 191,
+      "commitsAtMount": 2,
+      "commitsPerStep": {
+        "1": 189,
+        "2": 1
+      },
       "finalReadout": "frame 520 x 800",
-      "rectReads": 380,
-      "rectReadsInResizeEvent": 0,
-      "resizeListeners": 0,
+      "framesToPaint": {
+        "0": 190
+      },
+      "layoutCount": 570,
+      "recalcStyleCount": 0,
+      "rectReads": 760,
+      "rectReadsInResizeEvent": 380,
+      "resizeListeners": 1,
       "variant": "pull-request"
     },
     {
       "run": 1,
       "browser": "firefox 155.0",
       "commits": 570,
+      "commitsAtMount": 2,
+      "commitsPerStep": {
+        "3": 190
+      },
       "finalReadout": "frame 520 x 800",
+      "framesToPaint": {
+        "0": 190
+      },
       "rectReads": 760,
       "rectReadsInResizeEvent": 380,
       "resizeListeners": 2,
@@ -55,18 +100,33 @@
     {
       "run": 1,
       "browser": "firefox 155.0",
-      "commits": 190,
+      "commits": 191,
+      "commitsAtMount": 2,
+      "commitsPerStep": {
+        "1": 189,
+        "2": 1
+      },
       "finalReadout": "frame 520 x 800",
-      "rectReads": 380,
-      "rectReadsInResizeEvent": 0,
-      "resizeListeners": 0,
+      "framesToPaint": {
+        "0": 190
+      },
+      "rectReads": 760,
+      "rectReadsInResizeEvent": 380,
+      "resizeListeners": 1,
       "variant": "pull-request"
     },
     {
       "run": 2,
       "browser": "firefox 155.0",
       "commits": 570,
+      "commitsAtMount": 2,
+      "commitsPerStep": {
+        "3": 190
+      },
       "finalReadout": "frame 520 x 800",
+      "framesToPaint": {
+        "0": 190
+      },
       "rectReads": 760,
       "rectReadsInResizeEvent": 380,
       "resizeListeners": 2,
@@ -75,18 +135,35 @@
     {
       "run": 2,
       "browser": "firefox 155.0",
-      "commits": 190,
+      "commits": 191,
+      "commitsAtMount": 2,
+      "commitsPerStep": {
+        "1": 189,
+        "2": 1
+      },
       "finalReadout": "frame 520 x 800",
-      "rectReads": 380,
-      "rectReadsInResizeEvent": 0,
-      "resizeListeners": 0,
+      "framesToPaint": {
+        "0": 190
+      },
+      "rectReads": 760,
+      "rectReadsInResizeEvent": 380,
+      "resizeListeners": 1,
       "variant": "pull-request"
     },
     {
       "run": 1,
       "browser": "webkit 26.6",
       "commits": 570,
+      "commitsAtMount": 2,
+      "commitsPerStep": {
+        "2": 2,
+        "3": 186,
+        "4": 2
+      },
       "finalReadout": "frame 520 x 800",
+      "framesToPaint": {
+        "0": 190
+      },
       "rectReads": 760,
       "rectReadsInResizeEvent": 380,
       "resizeListeners": 2,
@@ -95,18 +172,35 @@
     {
       "run": 1,
       "browser": "webkit 26.6",
-      "commits": 190,
+      "commits": 191,
+      "commitsAtMount": 2,
+      "commitsPerStep": {
+        "1": 189,
+        "2": 1
+      },
       "finalReadout": "frame 520 x 800",
-      "rectReads": 380,
-      "rectReadsInResizeEvent": 0,
-      "resizeListeners": 0,
+      "framesToPaint": {
+        "0": 190
+      },
+      "rectReads": 760,
+      "rectReadsInResizeEvent": 380,
+      "resizeListeners": 1,
       "variant": "pull-request"
     },
     {
       "run": 2,
       "browser": "webkit 26.6",
-      "commits": 569,
+      "commits": 570,
+      "commitsAtMount": 2,
+      "commitsPerStep": {
+        "2": 1,
+        "3": 188,
+        "4": 1
+      },
       "finalReadout": "frame 520 x 800",
+      "framesToPaint": {
+        "0": 190
+      },
       "rectReads": 760,
       "rectReadsInResizeEvent": 380,
       "resizeListeners": 2,
@@ -115,11 +209,19 @@
     {
       "run": 2,
       "browser": "webkit 26.6",
-      "commits": 190,
+      "commits": 191,
+      "commitsAtMount": 2,
+      "commitsPerStep": {
+        "1": 189,
+        "2": 1
+      },
       "finalReadout": "frame 520 x 800",
-      "rectReads": 380,
-      "rectReadsInResizeEvent": 0,
-      "resizeListeners": 0,
+      "framesToPaint": {
+        "0": 190
+      },
+      "rectReads": 760,
+      "rectReadsInResizeEvent": 380,
+      "resizeListeners": 1,
       "variant": "pull-request"
     }
   ],

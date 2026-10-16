@@ -3,7 +3,7 @@ import path from 'node:path';
 
 import { build } from 'esbuild';
 
-const PULL_REQUEST_HEAD = '5ac0d0113671b68400ebc3d82b61e33919b22f1e';
+const PULL_REQUEST_HEAD = '1e765352132ccbc7eb7cd3a0893bca9de4e33939';
 const PROVIDER_FILE = 'NativeSafeAreaProvider.web.tsx';
 const PROVIDER_URL = `https://raw.githubusercontent.com/YevheniiKotyrlo/react-native-safe-area-context/${PULL_REQUEST_HEAD}/src/${PROVIDER_FILE}`;
 const RELEASE_SOURCE = path.resolve('node_modules/react-native-safe-area-context/src');
